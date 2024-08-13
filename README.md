@@ -68,7 +68,7 @@ Make sure you have the following installed on your machine:
 
 ```bash
 git clone https://github.com/shisui0711/Taka-Socical-Media-App.git
-cd Taka-Socical-Media-App
+cd Kaka-Socical-Media-App
 ```
 
 **Installation**
