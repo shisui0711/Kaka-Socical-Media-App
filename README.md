@@ -36,8 +36,6 @@ In today's fast-paced, digital world, staying connected with friends, family, an
 
 👉 **Interactions**: Users can interact with each other by actions such as following, liking, commenting, and sharing.
 
-👉 **Real-time and Immediately**:All user actions are immediate and real-time. It is a good user experience.
-
 👉 **Bookmark Page**: Dedicated page for users to store favourite posts.
 
 👉 **Fully Functional Search**: Allows users to find posts easily using various search criteria.
